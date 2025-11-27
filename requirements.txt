@@ -1,0 +1,4 @@
+flask==2.3.2
+flask-cors==4.0.0
+requests==2.31.0
+minecraft-data==3.20.0

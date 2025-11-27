@@ -1,0 +1,24 @@
+[
+  {
+    "name": "a",
+    "remote_host": "127.0.0.1",
+    "remote_port": 25565,
+    "local_port": 25566,
+    "motd": "\u00a7c\u6211\u662fMOTD",
+    "icon_path": "server-icon.png",
+    "id": 1,
+    "proxyRunning": true,
+    "autoStart": true
+  },
+  {
+    "name": "b",
+    "remote_host": "127.0.0.1",
+    "remote_port": 25565,
+    "local_port": 25567,
+    "motd": "",
+    "icon_path": "",
+    "autoStart": false,
+    "id": 2,
+    "proxyRunning": true
+  }
+]

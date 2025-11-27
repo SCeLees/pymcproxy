@@ -1,0 +1,25 @@
+{
+  "app": {
+    "start_time": "2025-11-27T21:43:21.669141",
+    "total_runtime": 46.309557,
+    "total_connections": 280,
+    "total_traffic": 41574277
+  },
+  "players": {
+    "Unknown": {
+      "total_connections": 260,
+      "total_traffic": 2412210,
+      "total_time": 118.13384556770325
+    },
+    "SCeLees": {
+      "total_connections": 19,
+      "total_traffic": 36834684,
+      "total_time": 373.9788935184479
+    },
+    "GTSense": {
+      "total_connections": 1,
+      "total_traffic": 2327383,
+      "total_time": 13.988778114318848
+    }
+  }
+}

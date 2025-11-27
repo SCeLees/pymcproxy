@@ -1,0 +1,15 @@
+{
+  "1": {
+    "mode": "whitelist",
+    "players": [
+      "SCeLees",
+      "GTSense"
+    ]
+  },
+  "2": {
+    "mode": "blacklist",
+    "players": [
+      "gt"
+    ]
+  }
+}
