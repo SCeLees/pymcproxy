@@ -68,7 +68,7 @@
       
       <footer class="app-footer">
         <div class="footer-content">
-          <p>&copy; 2025 PyMCProxy</p>
+          <p>&copy; 2025 PyMCProxy | MIT License</p>
           <div class="footer-links">
             <a href="#" @click.prevent="checkBackendStatus">检查连接</a>
           </div>
